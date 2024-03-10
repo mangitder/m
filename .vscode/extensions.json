@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "ivangabriele.vscode-git-add-and-commit"
+        "ivangabriele.vscode-git-add-and-commit",
+        "vsls-contrib.gitdoc"
     ]
 }
