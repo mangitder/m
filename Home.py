@@ -5,7 +5,7 @@ st.page_link("pages/DecisionTree.py", label="Prediction on DecisionTree", icon="
 st.page_link("pages/NaiveBaye.py", label="Prediction on Naive Baye", icon="🏠")
 st.page_link("pages/K-mean.py", label="Prediction on K-mean", icon="🏠")
 st.page_link("http://www.google.com", label="Google", icon="🌎")
-st.header("หฟกฟกd")
+st.header("หssฟกฟกd")
 
 
 
